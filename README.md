@@ -1,7 +1,11 @@
 👨‍💻 About Me
-Hi, I'm [Your Name] – a passionate Java Developer focusing on Spring Framework, Spring Boot, REST APIs, and microservices architecture. With a deep commitment to writing clean, efficient code, I specialize in building robust backend solutions and scalable systems.
+Hi, I'm Ronald Kiplangat – a passionate Java Developer focusing on Spring Framework,
+Spring Boot, REST APIs, and microservices architecture. With a deep commitment to writing clean,
+efficient code, I specialize in building robust backend solutions and scalable systems.
 
-Currently, I'm honing my skills in Java frameworks, cloud integration, and performance optimization, to become a senior-level developer. I am also passionate about open-source contributions and continuously learning new tools and technologies to stay ahead in the ever-evolving tech landscape.
+Currently, I'm honing my skills in Java frameworks, cloud integration, and performance optimization,
+to become a senior-level developer. I am also passionate about open-source contributions and 
+continuously learning new tools and technologies to stay ahead in the ever-evolving tech landscape.
 
 🚀 What I’m Working On
 Developing RESTful APIs using Spring Boot and Spring Security.
@@ -19,4 +23,5 @@ Other: RESTful APIs, Microservices, AWS, DevOps
 Exploring advanced design patterns and system architecture.
 Enhancing my knowledge of DevOps practices (CI/CD, Docker, Kubernetes).
 Contributing to open-source projects and collaborating with the developer community.
-Feel free to explore my repositories, check out my projects, and contribute or open issues if you have any suggestions! Let’s collaborate and grow together in the world of Java development! 🚀
+Feel free to explore my repositories, check out my projects, and contribute or open issues if you 
+have any suggestions! Let’s collaborate and grow together in the world of Java development! 🚀
