@@ -1,31 +1,51 @@
+👋 Hi, 
+
+I'm Ronald Kiplangat
+
+🚀 Computer Science Graduate | 💻 Software Developer | 🌍 Building impactful digital solutions
+
 👨‍💻 About Me
+I am a passionate and goal-driven developer with a strong focus on building scalable and impactful applications.
+I enjoy solving real-world problems using technology and continuously improving my skills.
 
-Hi, I'm Ronald Kiplangat – a passionate Java Developer focusing on Spring Framework,
-Spring Boot, REST APIs, and microservices architecture. With a deep commitment to writing clean,
-efficient code, I specialize in building robust backend solutions and scalable systems.
+🔹 Currently working on: Lapaataa Foundation Website (React + TypeScript + TailwindCSS + Node.js)
+🔹 Interested in: Web Development, Mobile Apps, and Backend Systems
+🔹 Goal: Becoming a top-level software engineer and building solutions that create real impact
 
-Currently, I'm honing my skills in Java frameworks, cloud integration, and performance optimization,
-to become a senior-level developer. I am also passionate about open-source contributions and 
-continuously learning new tools and technologies to stay ahead in the ever-evolving tech landscape.
+🛠️ Tech Stack
+💻 Languages:
+Java • Kotlin • JavaScript • TypeScript • Python
 
-🚀 What I’m Working On
+🌐 Frontend:
+React • HTML • CSS • TailwindCSS
 
-Developing RESTful APIs using Spring Boot and Spring Security.
-Building microservices-based applications with Spring Cloud and Docker.
-Integrating cloud platforms like AWS and CI/CD pipelines for automated deployments.
+⚙️ Backend & Tools:
+Node.js • MongoDB • Firebase • Git • REST APIs • Selenium
 
-🛠 Tech Stack
+📱 Mobile:
+Android (Java & Kotlin - JetPack Compose)
 
-Languages: Java, SQL, JavaScript (basic), HTML/CSS (for full-stack integration)
-Frameworks: Spring Boot, Spring MVC, Spring Cloud, Hibernate/JPA
-Tools: Git, Docker, Kubernetes, Jenkins
-Databases: MySQL, PostgreSQL, MongoDB
-Other: RESTful APIs, Microservices, AWS, DevOps
+📌 Projects
+🌍 Lapaataa Foundation Website
+A responsive NGO website focused on creating awareness and support systems.
+Built using React, TypeScript, and TailwindCSS.
 
-📚 Learning Journey
+📊 Responsive Porfolio
+Built a responsive porfolio website to showcse my skills and personal projects.
 
-Exploring advanced design patterns and system architecture.
-Enhancing my knowledge of DevOps practices (CI/CD, Docker, Kubernetes).
-Contributing to open-source projects and collaborating with the developer community.
-Feel free to explore my repositories, check out my projects, and contribute or open issues if you 
-have any suggestions! Let’s collaborate and grow together in the world of Java development! 🚀
+📱 Chimmuni App
+Developed an android application to manage child immunizations appointments
+
+📈 What I'm Working On
+Improving my skills in React and modern frontend development. Advancing in Kotlin & Jetpack Composed 
+
+Building scalable full-stack applications
+
+Learning advanced backend systems and APIs
+
+🤝 Let's Connect
+📧 Email: ronkiruiplandi@gmail.com
+🌐 Portfolio: https://solomancoder.vercel.app
+
+⚡ Fun Fact
+I enjoy building projects that solve real-world problems and exploring new technologies 🚀
